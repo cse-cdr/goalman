@@ -1,5 +1,5 @@
 # Goalman
-Goal Management - 목표관리게시판
+Goal Management(목표관리 서비스)
 
 > ## 프로젝트 설명
 
