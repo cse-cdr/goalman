@@ -1,4 +1,5 @@
 # goalman
+목표관리서비스
 Goal Management Service
 
 구현기능
