@@ -23,7 +23,7 @@ Goal Management
   - 광고게시판(카테고리별)
 
 * 기술스택
-- Spring Boot
-- JPA
-- MySQL
-- Spring Security
+  - Spring Boot
+  - JPA
+  - MySQL
+  - Spring Security
