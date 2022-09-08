@@ -22,6 +22,6 @@ Goal Management(목표관리 서비스)
 
 * 기술스택
   - Spring Boot
-  - JPA
+  - JPA(Hibernate)
   - MySQL
   - Spring Security
