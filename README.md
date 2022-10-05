@@ -21,6 +21,7 @@ Goal Management(목표관리 서비스)
   - 광고게시판(카테고리별)
 
 * DB설계
+
 ![image](https://user-images.githubusercontent.com/21366358/194093794-ea993c11-8737-497a-a368-f875020b5a6b.png)
 
 * 기술스택
