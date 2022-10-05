@@ -22,7 +22,8 @@ Goal Management(목표관리 서비스)
 
 * DB설계
 
-![image](https://user-images.githubusercontent.com/21366358/194093794-ea993c11-8737-497a-a368-f875020b5a6b.png)
+![image](https://user-images.githubusercontent.com/21366358/194101862-9a0c367b-4a84-40ba-b319-f07dcf066f9f.png)
+
 
 * 기술스택
   - Spring Boot
